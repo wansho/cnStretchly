@@ -379,7 +379,7 @@ function startMicrobreak () {
     }
 
     if (settings.get('fullscreen') && process.platform !== 'darwin') {
-      windowOptions.width = displaysWidth(displayIdx)
+      windowOptions.width = displaysWidth(displayIdx) - 1
       windowOptions.height = displaysHeight(displayIdx)
       windowOptions.x = displaysX(displayIdx, 0, true)
       windowOptions.y = displaysY(displayIdx, 0, true)
@@ -485,7 +485,7 @@ function startBreak () {
     }
 
     if (settings.get('fullscreen') && process.platform !== 'darwin') {
-      windowOptions.width = displaysWidth(displayIdx)
+      windowOptions.width = displaysWidth(displayIdx) - 1
       windowOptions.height = displaysHeight(displayIdx)
       windowOptions.x = displaysX(displayIdx, 0, true)
       windowOptions.y = displaysY(displayIdx, 0, true)
