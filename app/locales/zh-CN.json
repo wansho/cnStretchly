@@ -26,9 +26,9 @@
     "syncPreferences": "Sync Preferences"
   },
   "break": {
-    "postpone": "延后此次休息",
-    "skip": "跳过此次休息",
-    "title": "该休息一下了!"
+    "postpone": "深呼吸，该休息了~",
+    "skip": "喝杯水吧~",
+    "title": "起来活动活动吧~"
   },
   "preferences": {
     "title": "Stretchly 自定义设置",
