@@ -194,5 +194,33 @@ module.exports = [
   {
     data: '活在当下，别患得患失',
     enabled: true
+  },
+  {
+    data: '见贤思齐焉，见不贤内自省也',
+    enabled: true
+  },
+  {
+    data: '提醒：晚上睡觉前挂上云学习',
+    enabled: true
+  },
+  {
+    data: '提醒：今天健身了吗',
+    enabled: true
+  },
+  {
+    data: '提醒：知乎的收藏有学习吗',
+    enabled: true
+  },
+  {
+    data: '提醒：睡前还在玩手机吗',
+    enabled: true
+  },
+  {
+    data: '提醒：你的大脑是你在掌控吗',
+    enabled: true
+  },
+  {
+    data: '提醒：心跳快吗？活在当下！',
+    enabled: true
   }
 ]
