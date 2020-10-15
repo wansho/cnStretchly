@@ -1,24 +1,24 @@
 {
-  "name": "Stretchly",
-  "version": "1.2.0",
+  "name": "cnStretchly",
+  "version": "0.1.0",
   "description": "The break time reminder app",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hovancik/stretchly.git"
+    "url": "git+https://github.com/wansho/cnStretchly.git"
   },
   "keywords": [
-    "Stretchly",
+    "cnStretchly",
     "break",
     "time",
     "reminder"
   ],
-  "author": "Jan Hovancik <conta.srdr@gmail.com>",
+  "author": "wansho <wanshojs@gmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/hovancik/stretchly/issues"
+    "url": "https://github.com/wansho/cnStretchly/issues"
   },
-  "homepage": "https://hovancik.net/stretchly",
+  "homepage": "https://github.com/wansho/cnStretchly",
   "dependencies": {
     "@meetfranz/electron-notification-state": "^1.0.0",
     "electron-log": "^4.2.4",

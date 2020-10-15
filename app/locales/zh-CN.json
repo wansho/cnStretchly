@@ -1,6 +1,6 @@
 {
   "main": {
-    "toolTipHeader": "Stretchly - 休息提醒应用",
+    "toolTipHeader": "cnStretchly - 休息提醒应用",
     "microbreakIn": "距离下次小憩约 $t(utils.seconds, {'count': {{seconds}} })",
     "breakIn": "距离下次休息约 $t(utils.seconds, {'count': {{seconds}} })",
     "resumingBreaks": "正在恢复休息",
@@ -16,7 +16,7 @@
     "untilMorning": "直至早晨",
     "indefinitely": "无限期",
     "resetBreaks": "重置休息",
-    "quitStretchly": "退出 Stretchly",
+    "quitStretchly": "退出 cnStretchly",
     "restoreDefaults": "还原至预设配置",
     "warning": "移除自定义设置，还原至预设配置？",
     "continue": "确认",
@@ -26,21 +26,21 @@
     "syncPreferences": "Sync Preferences"
   },
   "break": {
-    "postpone": "深呼吸，该休息了~",
-    "skip": "喝杯水吧~",
+    "postpone": "推迟休息",
+    "skip": "跳过该次休息",
     "title": "起来活动活动吧~"
   },
   "preferences": {
-    "title": "Stretchly 自定义设置",
+    "title": "cnStretchly 自定义设置",
     "nav": {
       "settings": "设置",
       "schedule": "计划",
       "theme": "外观",
       "about": "关于",
-      "heart": "喜欢 Stretchly"
+      "heart": "喜欢 cnStretchly"
     },
     "settings": {
-      "openAtLogin": "登录后自动启动 Stretchly",
+      "openAtLogin": "登录后自动启动 cnStretchly",
       "showBreaksIn": "休息提示画面:",
       "window": "窗口",
       "fullscreen": "全屏",
@@ -93,7 +93,7 @@
       "version": "版本 ",
       "latestVersion": "最新版本 ",
       "notifyNewVersion":"新版本提醒",
-      "learnMore": "深入了解 Stretchly 的功能，请查看教程、下载新版或请求技术支持， ",
+      "learnMore": "深入了解 cnStretchly 的功能，请查看教程、下载新版或请求技术支持， ",
       "ourWebsite": "访问官网",
       "dot": ".",
       "developedBy": "开发者：",
@@ -101,9 +101,9 @@
       "designedBy": "Icon and UI design by Colin Shanley"
     },
     "heart": {
-      "loveStretchly": "喜欢 Stretchly?",
+      "loveStretchly": "喜欢 cnStretchly?",
       "desc1": "科学研究表明，使用电脑时定时休息有利于身心健康。",
-      "desc2": "Stretchly 是免费的。但是您可以通过捐赠来帮助我们改进 Stretchly 并发布其他免费软件。",
+      "desc2": "cnStretchly 是免费的。但是您可以通过捐赠来帮助我们改进 cnStretchly 并发布其他免费软件。",
       "becomePatron": "捐助",
       "alreadyContributor": "我已经是贡献者",
       "authenticateUsing": "通过下列方法认证：",
@@ -173,7 +173,7 @@
     "newVersionAvailable": "有新的版本！"
   },
   "welcome": {
-    "title": "欢迎来到 Stretchly",
+    "title": "欢迎来到 cnStretchly",
     "breakTimeReminderApp": "休息提醒应用",
     "viewTutorial": "查看教程",
     "openPreferences": "打开自定义设置",
